@@ -8,7 +8,3 @@ I am a proactive and responsible computer engineering student, always ready to l
 
 - 📞 Phone: +506 7137 1714
 - 📧 Email: haroldrm12@gmail.com
-
-## Interests
-
-I love collaborating with teams to achieve success and grow both personally and professionally. Let's connect and work on exciting projects together!
