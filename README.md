@@ -1,7 +1,5 @@
 # Hello, I'm Harold! 👋
 
-## About Me
-
 I am a proactive and responsible computer engineering student, always ready to learn and embrace new challenges. Working in a team and under pressure is second nature to me. I am passionate about leveraging technology to solve problems and constantly seek creative and efficient solutions.
 
 ## Contact Me
